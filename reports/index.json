@@ -1,0 +1,41 @@
+{
+  "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.7"
+  },
+  "entries": [
+    {
+      "id": "20261108-190558-upgn",
+      "title": "Thiela Bronn",
+      "commanders": [
+        "Thiela Bronn"
+      ],
+      "guild": {
+        "id": "4D2845F7-C7F8-E811-81A8-CD1049069AE5",
+        "name": "Winters Hearth",
+        "tag": "Home"
+      },
+      "dateStart": "2026-11-09T03:05:58.000Z",
+      "dateEnd": "2026-11-09T03:17:14.257Z",
+      "dateLabel": "11/8/2026, 7:05:58 PM - 11/8/2026, 7:17:14 PM",
+      "url": "https://mrinjen-cpu.github.io/BrethrenGuildReports/?report=20261108-190558-upgn",
+      "publishedBy": "mrinjen-cpu",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 32
+      }
+    }
+  ]
+}
