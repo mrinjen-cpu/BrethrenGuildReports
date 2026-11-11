@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261110-165047-r6jt",
+      "title": "Shadow Miracle",
+      "commanders": [
+        "Shadow Miracle"
+      ],
+      "guild": {
+        "id": "4D2845F7-C7F8-E811-81A8-CD1049069AE5",
+        "name": "Winters Hearth",
+        "tag": "Home"
+      },
+      "dateStart": "2026-11-11T00:50:47.000Z",
+      "dateEnd": "2026-11-11T01:19:10.828Z",
+      "dateLabel": "11/10/2026, 4:50:47 PM - 11/10/2026, 5:19:10 PM",
+      "url": "https://mrinjen-cpu.github.io/BrethrenGuildReports/?report=20261110-165047-r6jt",
+      "publishedBy": "mrinjen-cpu",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 37,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 28
+      }
+    },
+    {
       "id": "20261109-162652-km27",
       "title": "Kallen Merlin",
       "commanders": [
